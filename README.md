@@ -4,8 +4,9 @@
 This project provides a graphical and command-line interface for fingerprint registration and identification using the NBioBSP COM library.
 
 ## Prerequisites
-- Python 3.x
-- pip (Python package installer)
+- [Python 3.x](https://www.python.org/downloads/)
+- [pip (Python package installer)](https://packaging.python.org/en/latest/tutorials/installing-packages/)
+- [Interop.NBioBSPCOMLib.dll](https://fingertech.com.br/desenvolvedores)
 
 ## Clone the Repository
 To clone the repository, run the following command:
