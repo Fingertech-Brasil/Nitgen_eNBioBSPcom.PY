@@ -64,4 +64,4 @@ Logs are generated to provide information about the operations and any errors en
 Error messages are logged and displayed to the user in case of any issues during the operations.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
