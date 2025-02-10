@@ -36,14 +36,14 @@ python IndexSearch_graph.py
 ```
 
 ## List Methods
-To see the list of methods available in `nbio_bsp`, run:
+To see the list of methods available in `m_NBio_Bsp`, run:
 ```python
-for n in dir(nbio_bsp):
+for n in dir(m_NBio_Bsp):
         print(n)
 ```
-To see the list of methods available in `nbio_bsp.IndexSearch`, run:
+To see the list of methods available in `m_NBio_Bsp.IndexSearch`, run:
 ```python
-for n in dir(nbio_bsp.IndexSearch):
+for n in dir(m_NBio_Bsp.IndexSearch):
         print(n)
 ```
 
